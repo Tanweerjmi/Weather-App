@@ -6,6 +6,13 @@ A **responsive weather app** that displays **real-time weather** and a **7-day f
 
 ---
 
+## 📸 Screenshots
+
+![Weather App Screenshot](assets/weather-app.png)  
+![Weather App Screenshot](assets/forecast.png)  
+
+---
+
 ## 📌 Table of Contents
 
 1. [Features](#-features)  
@@ -27,14 +34,6 @@ A **responsive weather app** that displays **real-time weather** and a **7-day f
 - Live **clock and date** display  
 - Fully **responsive design** for desktop, tablet, and mobile  
 - Smooth animations for weather icons  
-
----
-
-## 📸 Screenshots
-
-![Weather App Screenshot](assets/weather-app.png)  
-![Weather App Screenshot](assets/forecast.png)  
-
 
 ---
 
