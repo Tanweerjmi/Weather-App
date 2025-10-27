@@ -35,7 +35,8 @@ A **responsive weather app** that displays **real-time weather** and a **7-day f
 
 ## 📸 Screenshots
 
-![Weather App Screenshot](screenshot.png)  
+![Weather App Screenshot](assets/weather-app.png)  
+![Weather App Screenshot](assets/forecast.png)  
 *Replace `screenshot.png` with your actual app screenshot.*
 
 ---
